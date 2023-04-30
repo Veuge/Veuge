@@ -6,7 +6,9 @@ I work as a Fullstack developer (Frontend heavy) for companies in the US and Eur
 
 #### Around the web
 I write at https://veuge.github.io
+
 I sometimes tweet at https://twitter.com/veuge_c
+
 I have my resumé updated at https://www.linkedin.com/in/veronica-clavijo-altamirano/
 
 <!--
